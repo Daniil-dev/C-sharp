@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\obj\Debug\netcoreapp3.0\Async_5_ex.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\obj\Debug\netcoreapp3.0\Async_5_ex.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\bin\Debug\netcoreapp3.0\Async_5_ex.exe
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\bin\Debug\netcoreapp3.0\Async_5_ex.deps.json
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\bin\Debug\netcoreapp3.0\Async_5_ex.runtimeconfig.json
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\bin\Debug\netcoreapp3.0\Async_5_ex.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\bin\Debug\netcoreapp3.0\Async_5_ex.dll
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\bin\Debug\netcoreapp3.0\Async_5_ex.pdb
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\obj\Debug\netcoreapp3.0\Async_5_ex.dll
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\obj\Debug\netcoreapp3.0\Async_5_ex.pdb
+C:\Users\Даниил\source\repos\Async_5_ex\Async_5_ex\obj\Debug\netcoreapp3.0\Async_5_ex.csprojAssemblyReference.cache
