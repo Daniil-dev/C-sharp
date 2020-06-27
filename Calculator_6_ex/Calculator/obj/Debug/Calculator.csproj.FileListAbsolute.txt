@@ -1,0 +1,38 @@
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dima\Desktop\Курсовая\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dima\Desktop\программирование\Курсовая\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Даниил\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Даниил\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Даниил\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Даниил\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Даниил\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Даниил\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
